@@ -1,7 +1,7 @@
 const GEO_API_URL = 'https://wft-geo-db.p.rapidapi.com/v1/geo';
 
 const WEATHER_API_URL = 'https://api.openweathermap.org/data/2.5';
-const WEATHER_API_KEY = 'Your API KEY';
+const WEATHER_API_KEY = '3bf66a0271a5545d2accc236c9f04cb5';
 
 const GEO_API_OPTIONS = {
   method: 'GET',
